@@ -1,15 +1,3 @@
-```
-dnsmasq-ubuntu-vm-lab/
-├── README.md
-├── setup/
-│   ├── vm1_server_setup.md
-│   ├── vm2_client_setup.md
-│   └── network_settings.md
-├── config/
-│   └── dnsmasq.conf
-└── notes/
-    └── ssh_access.md
-```# DNSMasq Ubuntu VM Lab
 
 This is a home lab project to learn how DNSMasq works in a real network environment using two Ubuntu Server VMs.
 
