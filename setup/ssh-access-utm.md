@@ -1,4 +1,3 @@
-Perfect — here’s the **plain text** for your new file `ssh-access-utm.md`, ready to be copied directly into your terminal editor (like `nano` or `vim`):
 
 ---
 
